@@ -10,6 +10,9 @@ import ARROW_UP from "@/assets/windows/arrow-up.svg";
 import DEFAULT from "@/assets/wallpaper/default.jpg";
 import THIS_PC from "@/assets/windows/this-pc.png";
 import RECYCLE_BIN from "@/assets/windows/bin-windows.svg";
+import X from "@/assets/windows/cross.svg";
+import MINUS from "@/assets/windows/remove.svg";
+import MAXIMIZE from "@/assets/windows/stop.svg";
 
 export const ICONS = {
   LOGO,
@@ -23,6 +26,9 @@ export const ICONS = {
   ARROW_UP,
   THIS_PC,
   RECYCLE_BIN,
+  X,
+  MINUS,
+  MAXIMIZE,
 };
 
 export const WALLPAPER = {
