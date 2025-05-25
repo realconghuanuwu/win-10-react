@@ -13,6 +13,8 @@ import RECYCLE_BIN from "@/assets/windows/bin-windows.svg";
 import X from "@/assets/windows/cross.svg";
 import MINUS from "@/assets/windows/remove.svg";
 import MAXIMIZE from "@/assets/windows/stop.svg";
+import PICTURE from "@/assets/windows/picture.svg";
+import FILE from "@/assets/windows/file.svg";
 
 export const ICONS = {
   LOGO,
@@ -29,6 +31,8 @@ export const ICONS = {
   X,
   MINUS,
   MAXIMIZE,
+  PICTURE,
+  FILE,
 };
 
 export const WALLPAPER = {

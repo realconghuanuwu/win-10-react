@@ -11,10 +11,14 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.7",
-    "antd": "^5.25.2",
+    "framer-motion": "^12.12.2",
+    "lucide-react": "^0.511.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "tailwindcss": "^4.1.7"
+    "react-draggable": "^4.4.6",
+    "sass": "^1.89.0",
+    "tailwindcss": "^4.1.7",
+    "zustand": "^5.0.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
